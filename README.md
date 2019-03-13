@@ -1,5 +1,5 @@
 # Xtream-Codes1.06
-2019 fixed version
+2019 fixed version For Ubuntu 14
 ------------------
 | For Fresh Server |
 
