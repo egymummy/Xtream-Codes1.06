@@ -1,5 +1,5 @@
 # Xtream-Codes1.06
-9/27/2019 fixed version For Ubuntu 14 ONLY & Fresh Server ONLY ( Greeting to The original Albainian Crackers )
+9/27/2022 NOT fixed version For Ubuntu 14 ONLY & Fresh Server ONLY ( Greeting to The original Albainian Crackers )
 ------------------
 | For Fresh Server |
 
@@ -11,7 +11,7 @@ To Restore from Backup sql.gz v1 and connect old load balancessss without Losing
 Does Not Accept V2 backup Migration , I am workin on that
 
 NOTE 2 :
-Load Balances Are NOT installing , Taken Down ( We Are Currently Working on A fix ) 09/27/2019
+Load Balances Are NOT installing , Taken Down ( We Are Currently Working on A fix ) 09/27/2022
 
 ------------------
 [1] wget https://raw.githubusercontent.com/egymummy/Xtream-Codes1.06/master/install.sh && chmod a+x install.sh && ./install.sh
